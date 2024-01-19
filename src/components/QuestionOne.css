@@ -1,0 +1,71 @@
+.wrapper{
+    border: 1px solid;
+    text-align: center;
+}
+
+.name-age{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.age{
+    color: grey;
+    margin-left: 10px;
+}
+
+.city{
+    color: grey;
+    border-bottom: 2px solid green;
+}
+
+.social{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+ .center {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    /* align-items: center; */
+    /* height: 100vh;  */
+  }
+  
+ /* .card {
+    width: 300px; 
+    border: 1px solid;
+    text-align: center;
+  }
+  
+  .name-age {
+    font-weight: 700;
+    font-size: 20px;
+  }
+  
+  .name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+  }
+  
+  .age {
+    color: grey;
+    margin-left: 10px;
+  }
+  
+  .city {
+    color: grey;
+    border-bottom: 2px solid green;
+  }
+  
+  .social {
+    display: flex;
+    justify-content: space-around;
+  }
+  */
